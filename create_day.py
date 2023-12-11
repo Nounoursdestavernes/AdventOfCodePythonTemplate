@@ -19,6 +19,10 @@ def create_day(day_number: str) -> None:
     """ Creates a launcher.py file for the given day """
     # Load the template
     template = env.get_template("part.jinja2")
+    if not os.path.exists("src"):
+        os.mkdir("src")
+
+
     os.chdir("src")
 
     # Create the day folder
