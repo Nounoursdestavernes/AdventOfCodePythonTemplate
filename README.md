@@ -1,3 +1,11 @@
+# DEPRICATED
+
+I'm now working on a package named "PyAOC" doing the same things and more.
+
+If you want to see the project go on :
+[PyAOC](https://github.com/Nounoursdestavernes/PyAOC)
+
+
 # AdventOfCodePythonTemplate
 
 This repository is a template for solving the [Advent of Code](https://adventofcode.com/) challenges in Python. The template is designed to be as simple as possible, so you can focus on solving the challenges. It also includes a script to create the folders for each day and a script to create the README.md file with the links to the challenges and the solutions. It also benchmarks the solutions and adds the execution times to the README.md.
