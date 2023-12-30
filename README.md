@@ -1,4 +1,4 @@
-# DEPRICATED
+# DEPRECATED
 
 I'm now working on a package named "PyAOC" doing the same things and more.
 
